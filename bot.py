@@ -45,7 +45,7 @@ from telegram.ext import (
 # ----------------------------------------------------------------------
 # Configuration
 # ----------------------------------------------------------------------
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+BOT_TOKEN = os.environ.get("8630471857:AAEcfZMxUFtRBAGoDVopIU4gxL_QdKo6v2E")
 if not BOT_TOKEN:
     print("Error: TELEGRAM_BOT_TOKEN environment variable not set.")
     sys.exit(1)
