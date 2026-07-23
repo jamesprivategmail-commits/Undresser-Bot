@@ -11,11 +11,11 @@ HOW TO OBTAIN A BOT TOKEN:
     1. Open Telegram and search for @BotFather.
     2. Send /newbot and follow the instructions.
     3. Copy the token you receive (e.g., 123456:ABC-DEF1234gh...).
-    4. Export it: export TELEGRAM_BOT_TOKEN="your_token_here"
+    4. Export it: export TELEGRAM_BOT_TOKEN="8630471857:AAEcfZMxUFtRBAGoDVopIU4gxL_QdKo6v2E"
 
 HOW TO RUN:
     pip install -r requirements.txt
-    export TELEGRAM_BOT_TOKEN="your_token_here"
+    export TELEGRAM_BOT_TOKEN="8630471857:AAEcfZMxUFtRBAGoDVopIU4gxL_QdKo6v2E"
     python bot.py
 """
 
